@@ -11,6 +11,10 @@ textarea {
     resize: none;
 }
 
+.resell {
+	color:red;
+}
+
 .section-intro {
 }
 
