@@ -1,0 +1,21 @@
+body {
+    padding-top: 51px;
+}
+
+section {
+    padding: 25px 0;
+    background-color: #F0F8FF;
+}
+
+textarea {
+    resize: none;
+}
+
+.section-intro {
+}
+
+.section-benefits {
+}
+
+.section-feedback {
+}
